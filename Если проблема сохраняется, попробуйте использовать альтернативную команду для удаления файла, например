@@ -1,0 +1,1 @@
+Remove-Item -Path "path\to\your\project\Пример команды" -Force
